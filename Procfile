@@ -1,3 +1,1 @@
-web: gunicorn bazaar.wsgi:application --log-file - --log-level debug
-python manage.py collectstatic --noinput
-manage.py migrate
+web: gunicorn bazaar.wsgi
