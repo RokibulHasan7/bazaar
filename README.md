@@ -51,3 +51,5 @@ E-commerce site using Django.
 <p align="center"><b>Payment With PayPal</b></p>
 <img src="https://github.com/RokibulHasan7/bazaar/blob/main/screenshots/payment_success.png">
 <p align="center"><b>Payment Success</b></p>
+<img src="https://github.com/RokibulHasan7/bazaar/blob/main/screenshots/reviewPage.png">
+<p align="center"><b>Review</b></p>
